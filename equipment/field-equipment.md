@@ -1,4 +1,4 @@
-# Field Equipment - 現地調査装備リスト（異端NWエンジニア流）
+# Field Equipment - 現地調査装備リスト
 
 ## Philosophy - 道具選定の考え方
 - 持つ道具は「行動力を高めるもの」のみ。
